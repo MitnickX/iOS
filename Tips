@@ -1,2 +1,4 @@
 1. 自己即成UIButton能更灵活的控制button
-2. change
+
+2. 重新拿git代码  
+git reset --hard FETCH_HEAD
